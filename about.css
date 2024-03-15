@@ -1,0 +1,21 @@
+#page-layout{
+    width: 70%;
+    margin-left: 15%;
+}
+h1{
+    margin-left: 42%;
+}
+.header h2{
+    
+    margin-left:40%;
+
+}
+.sub{
+display: flex;
+gap: 5rem;
+margin-left: 34%;
+}
+.sub h4 a{
+text-decoration: none;
+color: black;
+}
